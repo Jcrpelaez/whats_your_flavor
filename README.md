@@ -12,6 +12,8 @@ This is an app built to make trying new foods and drinks fun!
 
 # Visit http://localhost:5000 or https://immense-eyrie-56579.herokuapp.com/
 
+For testing purposes the test login is johnnyappleseed@apple.com password apple.
+
 List of technologies used Node.js, Express, Passport, MySql and Handlebars.
 
 Contributers include @jgoff88, @alyssaablright5050, and @Jcrpelaez.
