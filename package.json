@@ -25,7 +25,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-handlebars": "^3.1.0",
     "express-session": "^1.17.0",
-    "karma": "^4.4.1",
+    "karma": "^6.3.14",
     "mocha": "^7.0.0",
     "mysql": "^2.18.0",
     "mysql2": "^2.1.0",
